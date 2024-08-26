@@ -1,3 +1,3 @@
 # Recetario
 ##Construccion de Software
-*** Daniel Gamarra Moreno ***
+***Daniel Gamarra Moreno***
